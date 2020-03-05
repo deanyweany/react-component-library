@@ -1,5 +1,9 @@
 # React Component Library
 
+Hey guys, my name is Dean and i'm a full-stack developer.
+
+Welcome to my component library. Please check out the code and let me know if there are any issues.
+
 This project skeleton was created to help people get started with creating their own React component library using:
 - [Rollup](https://github.com/rollup/rollup)
 - [Sass](https://sass-lang.com/)
